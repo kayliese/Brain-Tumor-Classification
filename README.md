@@ -41,8 +41,6 @@ The results of the model's performance on the test set are shown below:
 | F1 Score     | 0.95  |
 
 
-The confusion matrix shows the number of correctly and incorrectly classified brain MRI images in each category.
-
 ## Conclusion
 
 This project demonstrates the effectiveness of convolutional neural networks in classifying brain MRI images. The trained model achieved high accuracy, precision, recall, and F1 score on the test set, indicating that it can be used for accurate diagnosis and treatment planning in clinical settings.
